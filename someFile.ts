@@ -86,7 +86,7 @@ class Person {
     return (
       "Name: " +
       this.firstName +
-      "\n" +
+      " " +
       this.lastName +
       " Weekly Earnings: $" +
       weekEarnings
