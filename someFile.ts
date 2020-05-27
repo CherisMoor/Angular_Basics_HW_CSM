@@ -88,7 +88,7 @@ class Person {
       this.firstName +
       " " +
       this.lastName +
-      " Weekly Earnings: $" +
+      ", Weekly Earnings: $" +
       weekEarnings
     );
   }
