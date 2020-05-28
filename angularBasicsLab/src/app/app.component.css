@@ -1,0 +1,19 @@
+body {
+  background-color: darksalmon;
+  color: brown;
+  text-align: center;
+
+  text-shadow: bisque 0.5px 0.5px 0.5px;
+  border: 1px;
+  border-color: chocolate;
+  border-style: groove;
+}
+h1,
+h2,
+h3 {
+  text-underline-position: below;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+
+  text-shadow: bisque 2px 2px 2px;
+}
